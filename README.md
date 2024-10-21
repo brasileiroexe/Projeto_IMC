@@ -9,19 +9,25 @@ Somos um grupo de universitários da UNIFACS - Unidade Tancredo Neves que buscam
 Participantes do Projeto:
 
 Ricardo Henrique da Rocha Silva
+
 Ra - 12723114666
 
 Pedro Brasileiro
+
 Ra - 12723116462
 
 Pedro Ramos Filgueiras
+
 Ra - 1272313885
 
 Murilo Ribeiro de Lima 
+
 Ra - 12723130019
 
 Lucas Ribeiro de Oliveira
+
 Ra - 12723133770
 
 Samuel Silva Santos
+
 Ra - 1272329379
