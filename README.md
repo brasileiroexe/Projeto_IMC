@@ -1,5 +1,5 @@
-# Site web sobre saúde e bem-estar
-- Site web de saúde e bem-estar com cálculo de IMC e explicações
+# Projeto de site web sobre saúde e bem-estar
+- Site web da ODS de saúde e bem-estar com cálculo de IMC e explicações.
 
 
 *Sobre Nós:*
