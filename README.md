@@ -1,4 +1,4 @@
-# Projeto_IMC
+# Site web sobre saúde e bem-estar
 - Site web de saúde e bem-estar com cálculo de IMC e explicações
 
 
