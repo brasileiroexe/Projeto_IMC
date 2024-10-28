@@ -1,0 +1,48 @@
+.tabela-imc-container {
+  position: relative;
+  background-color: #d1e7d1;
+  border: 2px solid #3a5f3a;
+  padding: 20px;
+  width: 300px;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.close-button {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background-color: #c0392b;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.close-button:hover {
+  background-color: #e74c3c;
+}
+
+.imc-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.imc-table th,
+.imc-table td {
+  border: 1px solid #3a5f3a;
+  padding: 8px;
+  text-align: center;
+}
+
+.imc-table th {
+  background-color: #3a5f3a;
+  color: white;
+}
+
+.imc-table td {
+  background-color: #f0f4f0;
+}

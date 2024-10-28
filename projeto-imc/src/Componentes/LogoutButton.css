@@ -1,0 +1,12 @@
+.logoutbutton {
+  background-color: transparent; /* Remover cor de fundo padrão do botão */
+  border: none;
+  color: #b3ffcc; /* Mesma cor dos links */
+  font-size: 18px;
+  cursor: pointer;
+  padding: 5px 10px;
+  transition: background-color 0.3s ease;
+  margin-right: 20px; /* Espaçamento igual ao dos links */
+  background-color: #063d1e; /* Mesmo estilo de hover dos links */
+  border-radius: 5px;
+}
