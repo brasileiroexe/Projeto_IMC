@@ -30,7 +30,7 @@ Como rodar o projeto localmente:
 
 4. Acesse no navegador: http://localhost:3000
 
-Link do Deploy:
+Link do Deploy: https://imc-teste-cc428.web.app
 
 _Participantes do Projeto:_
 
